@@ -1,0 +1,12 @@
+.feedback-list{
+    list-style: none;
+    width:60%;
+    max-width: 60%;
+  }
+  
+  .feedback-main-container{
+    display:flex;
+    justify-content: center;
+  }
+  
+  
